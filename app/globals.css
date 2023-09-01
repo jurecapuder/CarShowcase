@@ -11,6 +11,17 @@
   font-family: "Manrope", sans-serif;
 }
 
+/* Hide scrollbar for Chrome, Safari and Opera */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.no-scrollbar {
+  scrollbar-width: none;  /* Firefox */
+  -ms-overflow-style: none;  /* IE and Edge */
+}
+  
 /* START: General styles */
 .max-width {
   @apply max-w-[1440px] mx-auto;
