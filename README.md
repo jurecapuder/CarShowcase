@@ -2,45 +2,33 @@
 
 ![carhub](https://github.com/jurecapuder/CarShowcase/assets/127134124/a18f2c68-ad6c-465a-ab2d-3aa44a65678c)
 
-Welcome to the **Car Hub** repository! This project presents a responsive and captivating landing page for a fictional sushi restaurant named Sushiman. The landing page is crafted using HTML, CSS, and JavaScript to deliver an immersive user experience, enticing visitors to discover the offerings of the restaurant.
+Welcome to Car Hub, your one-stop destination for exploring a wide range of rental cars and discovering their rental prices. This repository contains the source code for the Car Hub landing page website.
 
 ## Table of Contents
 
-- [Hero Section](#hero-section)
-- [About Us](#about-us)
-- [Menu](#menu)
-- [Food Showcase](#food-showcase)
-- [Newsletter](#newsletter)
+- [About](#about)
+- [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
-## Hero Section
+## About
 
-The Hero Section welcomes users with a captivating image of our restaurant and a brief tagline that represents the essence of Sushiman.
+Car Hub is a simple yet effective landing page for a car rental website. It provides users with a glimpse of the available cars, allowing them to view car details and rental prices. The website is designed to be user-friendly, with three main sections:
 
-## About Us
+- **Hero Section**: A visually appealing introduction to the Car Hub website, featuring stunning car images and a clear call to action.
 
-In the About Us section, we share the story and philosophy behind Sushiman. Visitors can learn about our commitment to sourcing the freshest ingredients and delivering an exceptional dining experience.
+- **Car Catalogue**: Explore our catalogue of rental cars, where you can view car details and find out how much it costs to rent them.
 
-## Menu
+- **Footer**: A footer section with essential links and information to help users navigate the website.
 
-Explore our Menu section to discover the rich variety of sushi dishes we offer. High-quality images and detailed descriptions tempt the senses and provide an enticing glimpse of our culinary offerings.
+This project serves as a starting point for a full-fledged car rental platform, and it's perfect for developers looking to build upon this foundation.
 
-## Food Showcase
+### Prerequisites
 
-The Food Showcase area is designed to showcase the visual appeal of our signature dishes. These mouthwatering images are sure to captivate visitors and leave them craving for a taste of Sushiman.
+- A modern web browser (e.g., Chrome, Firefox, or Edge)
 
-## Newsletter
+### Installation
 
-Our Newsletter section offers visitors the chance to stay updated with the latest news, promotions, and special offers from Sushiman. Visitors can subscribe to our newsletter to receive regular updates delivered straight to their inbox.
-
-## Installation
-
-To run the Sushiman Landing Page locally, follow these steps:
-
-1. Clone this repository to your local machine:
+1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jurecapuder/Sushi.git
+   git clone https://github.com/jurecapuder/carshowcase.git
